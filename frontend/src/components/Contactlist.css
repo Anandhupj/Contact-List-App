@@ -1,0 +1,43 @@
+
+.list {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #14160f;
+    border-radius: 8px;
+    box-shadow: 0 6px 10px rgba(102, 74, 101, 0.1);
+    background-color: #bff79fea;
+    
+  }
+  
+  .contact-item {
+    display: flexbox;
+    justify-content: space-evenly;
+    margin-bottom: 8px;
+    padding: 10px;
+    background-color: #1fd2df;
+    font-family: open ;
+  }
+  
+  .contact-item strong {
+    font-weight: bolder;
+    font-style: italic;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: open;
+    text-decoration: underline;
+  }
+  
+  ol {
+    padding-left: 20px;
+  }
+  
+  .no-contacts {
+    text-align: center;
+    font-size: 18px;
+    color: #888;
+  }
+  
